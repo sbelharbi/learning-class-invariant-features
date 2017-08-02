@@ -1,0 +1,19 @@
+corrupt_input_l: 0.0
+debug_code: false
+extreme_random: true
+h_ind: [false, false, true, false]
+h_w: 0.0
+hint: true
+max_epochs: 400
+model: trainLenet
+nbr_sup: 1000
+norm_gh: false
+norm_gsup: false
+repet: 0
+run: 0
+start_corrupting: 0
+start_hint: 110
+use_batch_normalization: [false, false, false, false]
+use_sparsity: false
+use_sparsity_in_pred: false
+use_unsupervised: false
