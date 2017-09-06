@@ -1,4 +1,4 @@
-### Neural Networks Regularization Through Learning Invariant Features for Small Datasets.
+### Neural Networks Regularization Through Invariant Features Learning.
 
 This repository contains the code of the paper `Neural Networks Regularization Through Learning Invariant Features Learning. S.Belharbi, C.Chatelain, R.Hérault, S.Adam. 2017.`[ArXiv](https://arxiv.org/).
 
