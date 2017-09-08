@@ -1,6 +1,6 @@
 ### Neural Networks Regularization Through Invariant Features Learning.
 
-This repository contains the code of the paper `Neural Networks Regularization Through Learning Invariant Features Learning. S.Belharbi, C.Chatelain, R.Hérault, S.Adam. 2017.`[ArXiv](https://arxiv.org/).
+This repository contains the code of the paper `Neural Networks Regularization Through Learning Invariant Features Learning. S.Belharbi, C.Chatelain, R.Hérault, S.Adam. 2017.`[ArXiv](https://arxiv.org/abs/1709.01867).
 
 *Please cite this paper if you use the code in this repository as part of a published research project.*
 
