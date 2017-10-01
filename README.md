@@ -1,6 +1,6 @@
-### Neural Networks Regularization Through Class-wise Invariant Representation Learning .
+### Neural Networks Regularization Through Class-wise Invariant Representation Learning.
 
-This repository contains the code of the paper `Neural Networks Regularization Through Class-wise Invariant Representation Learning . S.Belharbi, C.Chatelain, R.Hérault, S.Adam. 2017.`[ArXiv](https://arxiv.org/abs/1709.01867).
+This repository contains the code of the paper `Neural Networks Regularization Through Class-wise Invariant Representation Learning. S.Belharbi, C.Chatelain, R.Hérault, S.Adam. 2017.`[ArXiv](https://arxiv.org/abs/1709.01867).
 
 *Please cite this paper if you use the code in this repository as part of a published research project.*
 
